@@ -183,3 +183,6 @@ Given this mathematical introduction to tensors, we can further explore its adop
 
 Happy AI programming!
 
+----
+
+*Copyright 2019, Victor Mawusi Ayi. All Rights Reserved.*
