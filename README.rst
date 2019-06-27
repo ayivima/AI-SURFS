@@ -23,4 +23,4 @@ the python programming language and facebook's pytorch.
 SURF LIST
 -----------
 
-1. `Python Uniqueness Hall Of Fame <https://github.com/ayivima/60_AI_Surfs/blob/master/Python's%20Beauty/Python_Uniqueness_Hall_Of_Fame.rst/>`_.
+1. `Python Uniqueness Hall Of Fame <https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst/>`_.
