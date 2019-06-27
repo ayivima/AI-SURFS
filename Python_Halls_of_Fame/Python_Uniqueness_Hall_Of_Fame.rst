@@ -87,7 +87,7 @@ instead of curly brackets.
 A VARIABLE CAN STORE DIFFERENT TYPES OF VALUES DURING ITS LIFETIME
 -----------------------------------------------------------------
 
-Unlike many classic C-style languages, python allows dynamic typing. Thus, you can assign a variable that previously stored an integer value, to a string value without throwing an error. Doing same in C will result in an error.
+Unlike many classic C-style languages, python allows dynamic typing. Thus, you can assign a variable that previously stored an integer value, to a string value without throwing an error. Doing same in Java will result in an error.
 
 :Python 3:
 
