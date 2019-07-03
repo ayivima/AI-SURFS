@@ -4,9 +4,9 @@ PLAYING WITH MATRICES
 
 [ Victor Mawusi Ayi ]
 
-Disclaimer! This is just me learning by playing around with tensors in
-python. This was spontaneous and may not be optimised. This is just for
-demonstration.
+Disclaimer! This is a spontaneous play around with tensors in
+python, which may need some optimisation. This is just for
+demonstration, and a tip of a project underway.
 
 Just thought if we played around with code a bit, we would get to the place where we could quickly mobilise a small neural network when we do not have the resources to run powerful libraries...And we could do it from the scratch.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
