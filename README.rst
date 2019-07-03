@@ -23,6 +23,10 @@ the python programming language and facebook's pytorch.
 SURF LIST
 -----------
 
-`Python Uniqueness Hall Of Fame <https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst/>`_.
+`>>> Python Uniqueness Hall Of Fame <https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst/>`_
 
-`Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_.
+`>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
+
+`>>> Exploring Vectors with Python <https://github.com/ayivima/vectortools/>`_
+
+`>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
