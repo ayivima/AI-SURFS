@@ -27,6 +27,11 @@ SURF LIST
 
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
-`>>> Exploring Vectors with Python <https://github.com/ayivima/vectortools/>`_
+`>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
 
 `>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
+
+`>>> Release of extensively tested version (0.1.3) of Vectorkit <https://github.com/ayivima/vectorkit//>`_. Link to repository: `<https://pypi.org/project/vectorkit/>`
+
+`>>> Quick demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
+
