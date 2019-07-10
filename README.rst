@@ -39,3 +39,4 @@ SURF LIST
 
 `>>> A taste of Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb>`_.
 
+`>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
