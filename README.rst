@@ -35,3 +35,7 @@ SURF LIST
 
 `>>> Quick demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
 
+`>>> Shades of Green classifier implemented in raw python <https://github.com/ayivima/AI-SURFS/blob/master/Green_shade_classifier/README.md>`_.
+
+`>>> A taste of Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb>`_.
+
