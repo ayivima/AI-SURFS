@@ -86,17 +86,10 @@ class Matrix():
 		return (
 			Matrix(
 				[
-					list(tuple) for tuple in zip(
-						*[vector.components for vector in self.rows[::-1]]
+					tuple for tuple in zip(
+						*[vector.components for vector in self.rows]
 					)
 				]
 			)
 		)
 
-				
-
-
-print(Matrix([[1,2,3,3458.3454, 1],[4,5],[6,7.62562]]))
-print(Matrix([[1,2,3,3458.3454, 1],[4,5],[6,7.62562]]).transposed())
-print(Matrix([[1.6,1,1.9,1],[1.9,1,1.7,1]]).matmul(Matrix([[1,1],[1,1],[1,1]])))
-	
