@@ -7,7 +7,7 @@ ACTIVITIES
 ### HIGHLIGHT: CONTINUED MATRIX TOOLS: THE SECOND MAJOR PROJECT FOR THE STREAK, ADDING UP TO VECTORKIT
 
 1. Work continues on matrix tools: the sequel to VectorKit. Implemented
-Matrix multiplication, transposition, scalar multiplication, Hadamard Product
+Matrix multiplication, Conjugate transposition, scalar multiplication, Hadamard Product,
 Matrix Addition, Matrix Subtraction, Matrix-Vector Multiplication, 
 Generation of nxn identity matrix!
 Link here: https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py
