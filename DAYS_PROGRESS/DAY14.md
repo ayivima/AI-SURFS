@@ -24,9 +24,6 @@ REPO FOR 60DAYSOFUDACITY:
 -------------------------
 https://github.com/ayivima/AI-SURFS/
 
-Matrixtools Draft: https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py
-
-
 PROGRESS:
 ---------
 https://github.com/ayivima/AI-SURFS/new/master/DAYS_PROGRESS
