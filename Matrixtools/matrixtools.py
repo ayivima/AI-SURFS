@@ -1,3 +1,10 @@
+"""
+
+(c) Copyright, Victor Mawusi Ayi. 2019
+All Rights Reserved!
+
+"""
+
 
 from vectorkit import Vector, isovector
 
@@ -69,8 +76,42 @@ class Matrix():
 				raise ValueError(
 					"The matrices do not have the right shapes to be multiplied"
 				)
+		elif isinstance(other, Vector):
+			if other.dimensions==self.shape[0]:
+				result = [
+					[
+						other.dotmul(Vector(b)) for b in zip(
+							*self.rows
+						)
+					]
+				]
+				
+		else:
+			raise TypeError(
+				"A matrix multiplication requires vectors or matrices."
+			)
 
 		return Matrix(result)
+		
+	def hadmul(self, other):
+		if isinstance(other, Matrix):
+			if self.shape == other.shape:
+				return Matrix(
+					[
+						[x*y for x,y in zip(a, b)] for a, b in zip(
+							self.rows, other.rows
+						)				
+					]
+				)
+			else:
+				raise ValueError(
+					"We cannot derive a Hadamard product"
+					" of matrices of different dimensions"
+				)
+		else:
+			raise TypeError(
+				"Hadamard product requires only matrices"
+			)
 
 	def smul(self, other):
 		if type(other) in (int, float):
@@ -93,3 +134,52 @@ class Matrix():
 			)
 		)
 
+	def add(self, other):
+		if isinstance(other, Matrix):
+			if self.shape == other.shape:
+				return Matrix(
+					[
+						a.add(b).components for a, b in zip(
+							self.rows, other.rows
+						)				
+					]
+				)
+			else:
+				raise ValueError(
+					"Matrices of different dimensions cannot be added"
+				)
+
+		else:
+			raise TypeError(
+				"Matrix addition can only occur between matrices"
+			)
+
+	def subtract(self, other):
+		if isinstance(other, Matrix):
+			if self.shape == other.shape:
+				return Matrix(
+					[
+						a.subtract(b).components for a, b in zip(
+							self.rows, other.rows
+						)				
+					]
+				)
+			else:
+				raise ValueError(
+					"Matrices of different dimensions cannot be subtracted"
+				)
+
+		else:
+			raise TypeError(
+				"Matrix subtraction can only occur between matrices"
+			)
+
+
+def idmatrix(n):
+	rows = []
+	for i in range(n):
+		rows.append(
+			[0 if x!=i else 1 for x in range(n)]
+		)
+	
+	return Matrix(rows)
