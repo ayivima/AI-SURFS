@@ -25,5 +25,6 @@ https://github.com/ayivima/AI-SURFS/new/master/DAYS_PROGRESS
 
 ENCOURAGEMENTS
 --------------
-Cheers to @nabhanpv, @Nana Aba T, @geekykant, @Shaam, @EPR, @Anshu Trivedi, @George Christopoulos, @Vivank Sharma, @Heather A, @Joyce Obi, @Aditya Kumar, @vivek, @Florence Njeri, @Jess, @J. Luis Samper, , @gfred, @Erika Yoon. 
+Cheers to @Frida, @Samuela Anastasi, @nabhanpv, @Nana Aba T, @geekykant, @Shaam, @EPR, @Anshu Trivedi, @George Christopoulos, @Vivank Sharma, @Heather A, @Joyce Obi, @Aditya Kumar, @vivek, @Florence Njeri, @Jess, @J. Luis Samper, , @gfred, @Erika Yoon. 
+ 
 
