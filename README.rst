@@ -25,6 +25,10 @@ SURF LIST
 
 `>>> Python Uniqueness Hall Of Fame <https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst/>`_
 
+`>>> Python demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
+
+`>>> Shades of Green classifier implemented in raw python <https://github.com/ayivima/AI-SURFS/blob/master/Green_shade_classifier/README.md>`_.
+
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
 `>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
@@ -33,13 +37,9 @@ SURF LIST
 
 `>>> Release of extensively tested version (0.1.3) of Vectorkit <https://github.com/ayivima/vectorkit//>`_. Link to repository: `<https://pypi.org/project/vectorkit/>`
 
-`>>> Quick demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
-
-`>>> Shades of Green classifier implemented in raw python <https://github.com/ayivima/AI-SURFS/blob/master/Green_shade_classifier/README.md>`_.
+`>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
 
 `>>> A taste of Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb>`_.
-
-`>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
 
 `>>> The Basics of Neural Networks: Softmax Activation Functions <https://github.com/ayivima/AI-SURFS/blob/master/Activation_Functions/SOFTMAX.md/>`_
 
