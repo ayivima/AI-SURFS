@@ -11,8 +11,9 @@ using core python. Consequently, this will strengthen the appreciation of pytorc
 
 Architecture
 ------------
+<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Red_Green_Blue_Classifier/archtecture_nn_2.png"/>
 
-
+Each selected pixel goes through each of the nodes of the hidden layer, each node selective for a particualr color. Then, the outputs from the hidden nodes are passed through through softmax function at the output node, and the class is assigned based on the maximum probability, and on a first-in selection principle in the case of a tie. This is just the beginning that will get refined as I add more hidden layers.
 
 Sample Images
 -------------
@@ -111,23 +112,13 @@ if __name__ = "__main__":
 
 ```
 
-How it works
-------------
-
-The classifier function loads the image and gets the RGB values for its pixels. As a demo, this system works 
-on only homogenously coloured images. While this condition is satisfied, the classifier() function picks a 
-random pixel's RGB, and serves it as input to the neural network, with a specified array of corresponding weights. 
-The bias is always 1. 
-
-The summation of the bias and the inner product of the RGB features and weights, are passed through a sigmoid 
-activation function and a boolean equivalent of the output is returned. `True` is returned if the image is a 
-shade of green, and `False` is returned if it is not.
-
 
 Outcomes and Performance
 ------------------------
 
-1. Using the weights [0.8,-0.6,-0.6], [-0.6,0.8,-0.6], [-0.6,-0.6,0.8] for the RED, GREEN, BLUE nodes of the hidden layer
+<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Red_Green_Blue_Classifier/shot_of_outcomes2.png"/>
+
+1. Using the weights [0.8,-0.6,-0.6], [-0.6,0.8,-0.6], [-0.6,-0.6,0.8] for the RED, GREEN, BLUE nodes of the hidden layer.
 
 ```
 [x] IMG1.PNG GREEN
@@ -141,7 +132,7 @@ Outcomes and Performance
 
 ```
 
-<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Green_shade_classifier/shot_of_images.png"/>
+<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Red_Green_Blue_Classifier/shot_of_images2.png"/>
 
 
 ```
@@ -158,8 +149,7 @@ Outcomes and Performance
 Conclusion
 ----------
 
-- But for the trouble with IMG6.PNG, the neural network did great classifying shades of green from the sample images.
-- Changing the weights changed the classification and this demonstrates the refinement that is automatically achieved using pytorch's autograd and backpropagation.
-- Neural networks are amazing!
+- It does well on Red, Green and blue colors. They are all it knows for now
+- Python and Neural networks are amazing!
 
 
