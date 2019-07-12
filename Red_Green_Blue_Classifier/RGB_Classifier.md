@@ -17,7 +17,7 @@ Each selected pixel goes through each of the nodes of the hidden layer, each nod
 
 Sample Images
 -------------
-<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Green_shade_classifier/shot_of_images.png"/>
+<img src="https://raw.githubusercontent.com/ayivima/AI-SURFS/master/Red_Green_Blue_Classifier/shot_of_images2.png"/>
 
 Code
 ----
