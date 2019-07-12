@@ -43,4 +43,6 @@ SURF LIST
 
 `>>> The Basics of Neural Networks: Softmax Activation Functions <https://github.com/ayivima/AI-SURFS/blob/master/Activation_Functions/SOFTMAX.md/>`_
 
+`>>> A Red, Green, Blue Double Layer classifier in core python <https://github.com/ayivima/AI-SURFS/blob/master/Red_Green_Blue_Classifier/RGB_Classifier.md/>`_
+
 
