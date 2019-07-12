@@ -73,7 +73,7 @@ def classifier(list_of_image_paths):
         hiddens = [node(input, weight) for weight in weights]
 
         # output layers
-		output = softmax(hiddens)
+	output = softmax(hiddens)
 
         # get the maximum probability
         max_probability = max(output)
@@ -91,7 +91,7 @@ def classifier(list_of_image_paths):
 
 
 if __name__ = "__main__":
-	img_paths = ["img{}.png".format(i) for i in range(1,17)]
+    img_paths = ["img{}.png".format(i) for i in range(1,17)]
 
     # Load and classify images   
     for x,y in classifier(img_paths):
