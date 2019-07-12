@@ -136,6 +136,7 @@ Outcomes and Performance
 
 
 ```
+[x] IMG9.PNG GREEN
 [x] IMG10.PNG GREEN
 [x] IMG11.PNG RED
 [x] IMG12.PNG GREEN
@@ -150,6 +151,4 @@ Conclusion
 ----------
 
 - It does well on Red, Green and blue colors. They are all it knows for now
-- Python and Neural networks are amazing!
-
-
+- Python and Neural networks are amazing! :)
