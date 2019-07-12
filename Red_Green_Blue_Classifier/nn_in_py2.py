@@ -65,7 +65,7 @@ def classifier(list_of_image_paths):
         arrays_from_image = np.array(image)
 
         # select random pixel. This is for demonstration purposes.
-		select_point = random.randint(0,49)
+	select_point = random.randint(0,49)
 
         input = arrays_from_image[select_point][0]
 
