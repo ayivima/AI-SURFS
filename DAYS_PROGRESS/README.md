@@ -8,3 +8,5 @@
 12/07/2019  DAY15 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY15.md
 
 13/07/2019  DAY16 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY16.md
+
+14/07/2019  DAY17 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY17.md
