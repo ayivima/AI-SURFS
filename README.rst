@@ -47,6 +47,6 @@ SURF LIST
 
 `>>> A Red, Green, Blue, Yellow, Magenta, Cyan Triple Layer classifier demonstrated in core python <https://github.com/ayivima/AI-SURFS/blob/master/RGBYCM_Color_Classifier/README.md/>`_
 
-`>>> Building Neural Networks using Pytorch, with Udacity <https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3bec1341-680c-4809-889b-bf05a6307c25/view?access_token=637754fa7e29ff5ca3644757317233ba6a96980c1ae7dd3747af51b25c3412f9/>`_ 
+`>>> Building Neural Networks using Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb/>`_ 
 
 
