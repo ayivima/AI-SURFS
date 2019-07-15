@@ -27,8 +27,6 @@ SURF LIST
 
 `>>> Python demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
 
-`>>> Shades of Green classifier implemented in raw python <https://github.com/ayivima/AI-SURFS/blob/master/Green_shade_classifier/README.md>`_.
-
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
 `>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
@@ -43,6 +41,12 @@ SURF LIST
 
 `>>> The Basics of Neural Networks: Softmax Activation Functions <https://github.com/ayivima/AI-SURFS/blob/master/Activation_Functions/SOFTMAX.md/>`_
 
+`>>> Shades of Green classifier implemented in raw python <https://github.com/ayivima/AI-SURFS/blob/master/Green_shade_classifier/README.md>`_.
+
 `>>> A Red, Green, Blue Double Layer classifier in core python <https://github.com/ayivima/AI-SURFS/blob/master/Red_Green_Blue_Classifier/RGB_Classifier.md/>`_
+
+`>>> A Red, Green, Blue, Yellow, Magenta, Cyan Triple Layer classifier demonstrated in core python <https://github.com/ayivima/AI-SURFS/blob/master/RGBYCM_Color_Classifier/README.md/>`_
+
+`>>> Building Neural Networks using Pytorch, with Udacity <https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/3bec1341-680c-4809-889b-bf05a6307c25/view?access_token=637754fa7e29ff5ca3644757317233ba6a96980c1ae7dd3747af51b25c3412f9/>`_ 
 
 
