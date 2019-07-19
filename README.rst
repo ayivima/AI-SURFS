@@ -25,6 +25,8 @@ SURF LIST
 
 `>>> Python Uniqueness Hall Of Fame <https://github.com/ayivima/AI-SURFS/blob/master/Python_Halls_of_Fame/Python_Uniqueness_Hall_Of_Fame.rst/>`_
 
+`>>> Getting Started with Python Data Types <https://github.com/ayivima/AI-SURFS/blob/master/Python_Basics/Getting_Started.md/>`_
+
 `>>> Python demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
 
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
@@ -33,7 +35,7 @@ SURF LIST
 
 `>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
 
-`>>> Release of extensively tested version (0.1.3) of Vectorkit <https://github.com/ayivima/vectorkit//>`_. Link to repository: `<https://pypi.org/project/vectorkit/>`
+`>>> Explore of Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
 
 `>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
 
@@ -52,3 +54,5 @@ SURF LIST
 `>>> On the limits of Differential Privacy <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/On_the_limits_of_DP.md/>`_
 
 `>>> Differencing Attack: A simple overview <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md/>`_
+
+`>>> Getting Started with Python Data Types <https://github.com/ayivima/AI-SURFS/blob/master/Python_Basics/Getting_Started.md/>`_
