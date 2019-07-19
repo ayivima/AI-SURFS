@@ -35,7 +35,7 @@ SURF LIST
 
 `>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
 
-`>>> Explore of Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
+`>>> Explore Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
 
 `>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
 
