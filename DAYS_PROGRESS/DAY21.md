@@ -4,7 +4,7 @@ DAY 21:
 
 ACTIVITIES
 ---------------------------------------------------------------------------------------------------------------
-### #SG_NOVICE-AI, BUILT A SIMPLE PYTORCH WRAPPER
+### PYBYTES IN SG_NOVICE-AI, BUILT A SIMPLE PYTORCH WRAPPER
 
 1. Rolled out PYBYTES in #sg_novice-ai, which led us to demonstrate, and self implement tensor flattening. 
 It is part of a series of explorations of seemingly scary AI concepts. 
