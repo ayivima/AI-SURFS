@@ -31,6 +31,11 @@ What are Virtual Workers?
 Virtual workers are the heart of federated learning. They are responsible for running all the "errands". In otherwords, they are the objects that do the real communication between devices, sending commands and receiving outcomes.
 
 
+What is garbage collection?
+---------------------------
+Garbage is simply something we do not need any longer. When our programs run, the variables and data we store in memory must be removed when we do not need them any longer. This is what Garbage collection achieves, ultimately. In federated learning, this is even more important because we do not want to congest the devices of users with data we do not need any longer. Thus, if Garbage collection is activated, when we retrieve outcomes from a remote device, these outcomes are deleted to save memory.
+
+
 What's the link between all these?
 ----------------------------------
 
