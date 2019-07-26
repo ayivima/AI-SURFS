@@ -55,4 +55,4 @@ SURF LIST
 
 `>>> Differencing Attack: A simple overview <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md/>`_
 
-`>>> Getting Started with Python Data Types <https://github.com/ayivima/AI-SURFS/blob/master/Python_Basics/Getting_Started.md/>`_
+`>>> An overview of Federated Learning <https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
