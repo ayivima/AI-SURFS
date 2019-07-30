@@ -1,4 +1,4 @@
-# BRUTE FORCE DEMONSTRATION OF HOW CORRELATION BETWEEN RGB VALUES OF DIFFERENT IMAGES CAN BE USED FOR MATCHING THEM.
+# BRUTE FORCE DEMONSTRATION OF HOW CORRELATION BETWEEN RGB VALUES OF DIFFERENT IMAGES CAN BE USED FOR MATCHING THEM, AND HOW A WE CAN JUSTIFY CONVOLUTIONS AS NEEDFUL FOR IMAGE ANALYSIS.
 
 *NB: Acknowledgement: This exercise was initiated by a question by @Shaam from SPAIC.*
 
@@ -107,7 +107,7 @@ There was a positive correlation between SAMP1, SAMP3, and SAMP4. On visual insp
 
 ## TAKEAWAY
 
-This exercise explores correlation as a fundamental resource for image analysis, and then...the need for other methods in analysing and matching images.
+This exercise explores correlation as a fundamental resource for image analysis, and then...the need for other methods in analysing and matching images. The notion of edges is particularly important, as has been the case forwarded by faithfuls of CNNs, if models can deeply assess simmilarities and disimilarities.
 
 
 
