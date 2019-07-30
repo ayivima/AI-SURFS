@@ -34,3 +34,7 @@
 26/07/2019  DAY28 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY28.md
 
 27/07/2019  DAY29 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY29.md
+
+29/07/2019  DAY30 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY30.md
+
+30/07/2019  DAY31 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY31.md
