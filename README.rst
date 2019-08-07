@@ -51,8 +51,14 @@ SURF LIST
 
 `>>> Building Neural Networks using Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb/>`_ 
 
+DIFFERENTIAL PRIVACY
+
 `>>> On the limits of Differential Privacy <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/On_the_limits_of_DP.md/>`_
 
 `>>> Differencing Attack: A simple overview <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md/>`_
+
+`>>> Sensitivity and Epsilon <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md/>`_
+
+FEDERATED LEARNING
 
 `>>> An overview of Federated Learning <https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
