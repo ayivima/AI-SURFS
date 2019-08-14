@@ -1,7 +1,4 @@
 
-
-
-
 DAY 46:
 =======
 
@@ -9,11 +6,11 @@ ACTIVITIES
 ---------------------------------------------------------------------------------------------------------------
 GROUP SHOWCASE CHALLENGE PROJECT CONTINUES
 
-We are the best team in the world #sg_novice-ai. Any challenger? We are making strides with our project. No Stand-up today, just action.
-
-1. We had some brainstorming sessions for staging the modelling. @Stark, @Olivia, @Alexander Villasoto, @Ingus Terbets, @Hung, @George Christopoulus
+1. We had some brainstorming sessions for staging the model #sg_novice-ai.
 
 2. Special shout out to @George Christopoulus for leading us in implementing and reaching our preliminary model staging goal - the model was really dumb yesterday :smile:. And, to @Alexander Villasoto, and @Ingus Terbets for the tireless efforts at Data Control. 
+
+Long live #sg_novice-ai!!!
 
 
 REPO FOR 60DAYSOFUDACITY:
