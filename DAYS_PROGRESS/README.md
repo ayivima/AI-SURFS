@@ -52,3 +52,7 @@
 5/08/2019  DAY37 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY37.md
 
 6/08/2019  DAY38 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY38.md
+
+16/08/2019  DAY48 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY48.md
+
+18/08/2019  DAY49 -> https://github.com/ayivima/AI-SURFS/blob/master/DAYS_PROGRESS/DAY49.md
