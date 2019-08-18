@@ -7,13 +7,13 @@ ACTIVITIES
 ---------------------------------------------------------------------------------------------------------------
 GROUP SHOWCASE CHALLENGE PROJECT CONTINUES
 
-1. We had a general stand-up #sg_novice-ai.
+1. We had a general stand-up to wrap up for the showcase challenge #sg_novice-ai.
 
 2. We had a prior stand-up for documentation sub-team #sg_novice-ai.
 
 3. Worked on select documentation sections.
 
-4. Started work on a websockets implementation.
+
 
 
 Long live #sg_novice-ai!!!
