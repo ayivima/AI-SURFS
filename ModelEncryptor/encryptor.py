@@ -35,9 +35,9 @@ class ModelEncryptor():
     """Encrypts data."""
     return (
       data.fix_precision().share(
-      *self.shares[:-1], crypto_provider=self.shares[-1]
+        *self.shares[:-1], crypto_provider=self.shares[-1]
+      )
     )
-  )
 
   def predict(self, data):
     """Encrypts data, and returns the outcome of 
