@@ -1,4 +1,4 @@
-60 ARTIFICIAL INTELLIGENCE SURFS
+ARTIFICIAL INTELLIGENCE SURFS
 ================================
 
 Artificial Intelligence is our journey into the wonderful workings of one of the most complex 
