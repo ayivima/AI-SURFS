@@ -7,6 +7,8 @@ A mask obtained using cv2.inrange, where all pixels in the reference image passe
 
 On experimentation, as demonstrated below, the observation was that images with monotonous pixel intensities always got displayed as black.
 
+# Understanding the behaviour of plt.imshow(img, cmap="gray")
+
 ```python
 import matplotlib.pyplot as plt
 import numpy as np
@@ -16,7 +18,6 @@ import random
 %matplotlib inline
 ```
 
-# Understanding the behaviour of plt.imshow(img, cmap="gray")
 
 #### Image with all pixels having intensity of 100
 
