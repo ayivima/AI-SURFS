@@ -5,7 +5,7 @@ Victor Mawusi Ayi
 
 A mask obtained using cv2.inrange, where all pixels in the reference image passed, was displayed by `plt.imshow` as black using `cmap="gray"`. The contention was that pixel intensities in the image were all 255. In otherwords, the mask is all white image.
 
-On experimentation, as demonstrated below, the observation was that images with monotonous pixel intensities always got displayed as black by `plt.imshow` and `cmap="gray"`.
+On experimentation, as demonstrated below, the observation was that images with monotonous pixel intensities always got displayed as black by `plt.imshow` and `cmap="gray"`. If we display an image which has all pixel intensities being 150 it will display it as black. Likewise, if we display an image with all it's pixels having intensity of 200, it will display as black. If we display an all white image, all pixel intensities are 255, it will still display as black. So once the image has a uniform intensity, like in our case "all white", `plt.imshow()` with `cmap="gray"` displays a black image.
 
 # Understanding the behaviour of plt.imshow(img, cmap="gray")
 
