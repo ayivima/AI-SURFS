@@ -1,7 +1,7 @@
 DIFFERENCING ATTACK: A SIMPLE OVERVIEW
 ======================================
 
-At a very basic level, a DIFFERENCING ATTACK is, when you use the DIFFERENCE between the results of two queries to find out information about an individual.
+At a very basic level, a DIFFERENCING ATTACK is when you use the DIFFERENCE between the results of two queries to find out information about an individual.
 
 FOR EXAMPLE:
 Consider the database of earnings of four people below. Assume, we wanted to find out how much Jane earns. But, we cannot have access to Jane's data directly. We can decide to find out how the sum of earnings change with and without Jane.
