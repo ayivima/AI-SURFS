@@ -1,7 +1,7 @@
 
 
-SENSITIVITY & EPSILON
-=====================
+SENSITIVITY & EPSILON IN DIFFERENTIAL PRIVACY
+=============================================
 
 SENSITIVITY
 -----------
