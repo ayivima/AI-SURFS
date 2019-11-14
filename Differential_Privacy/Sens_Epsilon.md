@@ -13,6 +13,19 @@ Example:
 - For, a database `B = [-1, -2, -5, -10]`, the sensitivity of a sum query becomes `10`
 - For, a database `C = [0, 1, 1, 0, 1, 1]`, the sensitivity of a sum query becomes `1`
 
+Taking `A = [1, 6, 7, 19]` as a case study, these are the sums for each round of summation with one item removed.
+
+Remove 1: `6 + 7 + 19 = 32`
+Remove 6: `1 + 7 + 19 = 27`
+Remove 7: `1 + 6 + 19 = 26`
+Remove 19: `1 + 6 + 7 = 14`
+
+The total of all numbers is `33`. Since `14` is our smallest sum, we can get the highest drop by subtracting it from `33`.
+
+Already, it is evident that our highest drop in the sums happens when we remove 19.
+
+
+
 
 EPSILON
 -------
