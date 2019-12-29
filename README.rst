@@ -31,15 +31,7 @@ SURF LIST
 
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
-`>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
-
-`>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
-
-`>>> Explore Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
-
-`>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
-
-`>>> A taste of Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises).ipynb>`_.
+`>>> Demonstrating display patterns of images with monotonous and heterogenous intensities, using gray color map in matplotlib <https://github.com/ayivima/AI-SURFS/blob/master/cmap_gray_behavior/cmap_gray_demo.md/>`_
 
 `>>> The Basics of Neural Networks: Softmax Activation Functions <https://github.com/ayivima/AI-SURFS/blob/master/Activation_Functions/SOFTMAX.md/>`_
 
@@ -49,7 +41,7 @@ SURF LIST
 
 `>>> A Red, Green, Blue, Yellow, Magenta, Cyan Triple Layer classifier demonstrated in core python <https://github.com/ayivima/AI-SURFS/blob/master/RGBYCM_Color_Classifier/README.md/>`_
 
-`>>> Building Neural Networks using Pytorch, with Udacity <https://github.com/ayivima/AI-SURFS/blob/master/Udacity_DL_With_Pytorch_Exercises/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises).ipynb/>`_ 
+`>>> Training a model on FashionMNIST: A walkthrough <https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md`_ 
 
 DIFFERENTIAL PRIVACY
 
@@ -57,8 +49,18 @@ DIFFERENTIAL PRIVACY
 
 `>>> Differencing Attack: A simple overview <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md/>`_
 
-`>>> Sensitivity and Epsilon <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md/>`_
+`>>> DIfferential Privacy: Sensitivity and Epsilon <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md/>`_
 
 FEDERATED LEARNING
 
-`>>> An overview of Federated Learning <https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
+`>>> An overview of Federated Learning Concepts<https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
+
+## Experiments and Projects
+
+`>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
+
+`>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
+
+`>>> Explore Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
+
+`>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
