@@ -41,7 +41,7 @@ SURF LIST
 
 `>>> A Red, Green, Blue, Yellow, Magenta, Cyan Triple Layer classifier demonstrated in core python <https://github.com/ayivima/AI-SURFS/blob/master/RGBYCM_Color_Classifier/README.md/>`_
 
-`>>> Training a model on FashionMNIST: A walkthrough <https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md`_ 
+`>>> Training a model on FashionMNIST: A walkthrough <https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md/>`_ 
 
 DIFFERENTIAL PRIVACY
 
@@ -55,7 +55,9 @@ FEDERATED LEARNING
 
 `>>> An overview of Federated Learning Concepts<https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
 
-## Experiments and Projects
+
+Experiments and Projects
+------------------------
 
 `>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
 
