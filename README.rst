@@ -31,6 +31,8 @@ SURF LIST
 
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
+`>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
+
 `>>> Demonstrating display patterns of images with monotonous and heterogenous intensities, using gray color map in matplotlib <https://github.com/ayivima/AI-SURFS/blob/master/cmap_gray_behavior/cmap_gray_demo.md/>`_
 
 `>>> The Basics of Neural Networks: Softmax Activation Functions <https://github.com/ayivima/AI-SURFS/blob/master/Activation_Functions/SOFTMAX.md/>`_
@@ -53,15 +55,13 @@ DIFFERENTIAL PRIVACY
 
 FEDERATED LEARNING
 
-`>>> An overview of Federated Learning Concepts<https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
+`>>> An overview of Federated Learning Concepts <https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
 
 
 Experiments and Projects
 ------------------------
 
 `>>> Exploring Vectors arithmetic with Python <https://github.com/ayivima/vectorkit/blob/master/vectorkit/vectortools.py/>`_
-
-`>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
 
 `>>> Explore Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
 
