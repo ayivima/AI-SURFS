@@ -4,6 +4,9 @@ import syft
 import torch
 
 
+__author__ = "Victor Mawusi Ayi <ayivima@hotmail.com>"
+
+
 class ModelEncryptor():
 
   def __init__(self, model, num_of_shares):
