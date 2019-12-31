@@ -31,6 +31,8 @@ SURF LIST
 
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
+`>>> Exploring Implementation of Matrix Multiplication <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matmul_intro.md/>`_
+
 `>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
 
 `>>> Demonstrating display patterns of images with monotonous and heterogenous intensities, using gray color map in matplotlib <https://github.com/ayivima/AI-SURFS/blob/master/cmap_gray_behavior/cmap_gray_demo.md/>`_
