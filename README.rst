@@ -47,15 +47,11 @@ SURF LIST
 
 `>>> Training a model on FashionMNIST: A walkthrough <https://github.com/ayivima/AI-SURFS/blob/master/FashionMNIST/Untitled.md/>`_ 
 
-DIFFERENTIAL PRIVACY
-
 `>>> On the limits of Differential Privacy <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/On_the_limits_of_DP.md/>`_
 
 `>>> Differencing Attack: A simple overview <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Diff_Attack.md/>`_
 
 `>>> DIfferential Privacy: Sensitivity and Epsilon <https://github.com/ayivima/AI-SURFS/blob/master/Differential_Privacy/Sens_Epsilon.md/>`_
-
-FEDERATED LEARNING
 
 `>>> An overview of Federated Learning Concepts <https://github.com/ayivima/AI-SURFS/blob/master/Federated_Learning/Remote_Execution_Overview.md/>`_
 
@@ -68,3 +64,5 @@ Experiments and Projects
 `>>> Explore Vectorkit 0.1.3 <https://github.com/ayivima/vectorkit//>`_. Link to PYPI: `<https://pypi.org/project/vectorkit/>`
 
 `>>> Delving deeper into Matrix Arithmetic with core python - I <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matrixtools.py/>`_
+
+`>>> A snappy class for encrypted deep learning <https://github.com/ayivima/AI-SURFS/blob/master/ModelEncryptor/encryptor.py/>`_
