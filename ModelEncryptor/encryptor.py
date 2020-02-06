@@ -15,7 +15,7 @@ class ModelEncryptor:
 
     # Function for generating a share
     share = lambda share_id: (
-      sy.VirtualWorker(hook, id=share_id).add_worker(sy.local_worker)
+      syft.VirtualWorker(hook, id=share_id).add_worker(syft.local_worker)
     )
 
     # Generate ids for shares based on number of shares
