@@ -27,13 +27,19 @@ SURF LIST
 
 `>>> Getting Started with Python Data Types <https://github.com/ayivima/AI-SURFS/blob/master/Python_Basics/Getting_Started.md/>`_
 
-`>>> Python demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
-
 `>>> Tensor Exploration In Words <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Explaining_Tensors.md/>`_
 
 `>>> Exploring Implementation of Matrix Multiplication <https://github.com/ayivima/AI-SURFS/blob/master/Matrixtools/matmul_intro.md/>`_
 
 `>>> A spontaneous, and miniscule, Matrix class <https://github.com/ayivima/AI-SURFS/blob/master/Tinkering_With_Tensors/Spontaneous_Matrix.rst/>`_
+
+`>>> Understanding Image Channels <https://github.com/ayivima/AI-SURFS/blob/master/docs/channels.md/>`_
+
+`>>> Understanding Image Flattening <https://github.com/ayivima/AI-SURFS/blob/master/docs/flattening.md/>`_
+
+`>>> Understanding Image Transposition <https://github.com/ayivima/AI-SURFS/blob/master/docs/transpose.md/>`_
+
+`>>> Python demonstration of how correlation between RGB values from pixels of images can be used to match images <https://github.com/ayivima/AI-SURFS/blob/master/Power_Of_Math_In_Image_Analysis/README.md>`_.
 
 `>>> Demonstrating display patterns of images with monotonous and heterogenous intensities, using gray color map in matplotlib <https://github.com/ayivima/AI-SURFS/blob/master/cmap_gray_behavior/cmap_gray_demo.md/>`_
 
